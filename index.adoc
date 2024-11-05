@@ -1,0 +1,42 @@
+= Coachella Valley Multiple Species Habitat Conservation Plan
+:doctype: book
+:pdf-theme: mshcp-theme
+:stylesheet: ../themes/styles.css
+:toc: macro
+:toc-title: Table of Contents
+:toclevels: 4
+:sectnums!:
+:chapter-label:
+:figure-caption: Figure
+:table-caption: Table
+:imagesdir: ../assets/volume-1/images
+:source-highlighter: rouge
+:experimental:
+:stem:
+:icons: font
+
+// Front Matter
+include::front-matter/cover.adoc[]
+
+include::front-matter/toc.adoc[]
+
+include::front-matter/figures.adoc[]
+
+include::front-matter/tables.adoc[]
+
+include::front-matter/definitions.adoc[]
+
+include::front-matter/acronyms.adoc[]
+
+// Main Content
+include::sections/executive-summary.adoc[]
+
+include::sections/section-1.adoc[]
+
+include::sections/section-2.adoc[]
+
+// ... additional sections
+
+// Appendices
+[appendix]
+include::appendices/appendix-1.adoc[]
