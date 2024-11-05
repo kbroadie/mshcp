@@ -1,0 +1,130 @@
+= Executive Summary
+:doctype: book
+:sectnums: 
+:toc: macro
+:xrefstyle: full
+:chapter-label: E.S.
+:figure-caption: Figure
+:table-caption: Table
+:imagesdir: ../assets/volume-1/images
+
+[.lead]
+The Coachella Valley Multiple Species Habitat Conservation Plan balances environmental protection and economic development objectives while simplifying compliance with endangered species laws.
+
+== Background, Purpose, Scope, Process, and Regulatory Context
+
+A Scoping Study prepared for the Coachella Valley Association of Governments (CVAG) by the Coachella Valley Mountains Conservancy (CVMC) in 1994 recommended that a Multiple Species Habitat Conservation Plan (Plan) be prepared for the entire Coachella Valley and surrounding mountains to address current and potential future state and federal Endangered Species Act issues in the Plan Area. (See Figures 1-1 and 1-2 in Section 1 for maps of the Plan Area and its regional context.)
+
+A Memorandum of Understanding ("Planning Agreement") was developed to govern the preparation of the Plan. In late 1995 and early 1996, under the auspices of CVAG, the cities of Cathedral City, Coachella, Desert Hot Springs, Indian Wells, Indio, La Quinta, Palm Desert, Palm Springs, and Rancho Mirage; County of Riverside (County); U.S. Fish and Wildlife Service (USFWS); California Department of Fish and Game (CDFG); Bureau of Land Management (BLM); U.S. Forest Service (USFS); and National Park Service (NPS) signed the Planning Agreement to initiate the planning effort.
+
+=== Regulatory Framework and Amendments
+
+In late 1996 and early 1997, the Parties to the Planning Agreement approved an amendment stipulating that the Plan will meet the intent of:
+
+* Natural Community Conservation Planning Act (NCCP Act)
+* California Endangered Species Act (CESA) 
+* Federal Endangered Species Act (FESA)
+
+The Planning Agreement constitutes an agreement to prepare a Natural Community Conservation Plan (NCCP) as specified in California Fish and Game Code Section 2810.
+
+[NOTE]
+====
+The Plan and Final EIR/EIS were released in early 2006 for local jurisdiction approval. In June 2006, the City of Desert Hot Springs voted not to approve the Plan. The CVAG Executive Committee then rescinded its approval and directed that the Plan be revised to:
+
+* Remove Desert Hot Springs as a Permittee
+* Reflect other project description modifications suggested during public review
+====
+
+=== Plan Objectives
+
+The Plan aims to:
+
+* Balance environmental protection and economic development
+* Simplify compliance with endangered species related laws
+* Satisfy legal requirements for Permits allowing Take of covered species
+* Minimize and mitigate impacts of Taking to maximum extent practicable
+* Provide Conservation of covered species
+
+==== Key Planning Components
+
+The Plan development involved:
+
+* Project Advisory Group (PAG) providing input from diverse interests
+* Scientific Advisory Committee (SAC) providing technical expertise
+* Geographic Information Systems (GIS) team providing mapping services
+* Public forums and meetings for landowner input
+
+The proposed term of the Permits is 75 years, which allows:
+
+* Full funding of Plan implementation
+* 30 years to acquire all Permittee obligation land
+* 75 years to fully fund endowment for:
+** Monitoring Program
+** Management Program  
+** Adaptive Management
+** Ongoing administration costs
+
+== E.S.2 Plan Area Profile
+
+The Coachella Valley is a broad, low elevation, northwest-southeast trending valley comprising the westernmost limits of the Sonoran Desert. It is located in the eastern portion of Riverside County, approximately 100 miles east of Los Angeles. Riverside County as a whole covers over 4,700,000 acres (7,310 square miles), making it California's fourth largest county and roughly equal in size to Connecticut.
+
+The Plan Area boundaries were chosen to maximize inclusion of the Coachella Valley watershed. Portions of the watershed outside Riverside County or outside the jurisdictional boundaries of CVAG were not included in order to avoid institutional and administrative complexity. The Plan Area extends westward to Cabazon where it is bounded by the range line common to Range 1 East and Range 2 East. This is approximately the limit of the Sonoran or Colorado Desert in the San Gorgonio Pass area. The easternmost extent of the Plan Area is the range line common to Range 13 East and Range 14 East. Either the ridgeline of the Little San Bernardino Mountains or the boundary line with San Bernardino County where the ridgeline extends north of the county line bounds the Plan Area on the north. On the south, either the ridgeline of the San Jacinto and Santa Rosa Mountains or the boundary line with San Diego and Imperial Counties forms the Plan Area boundary. The Plan Area encompasses approximately 1.2 million acres. Of this, approximately 69,000 acres are Indian Reservation Lands, which are not included in the Plan, leaving a total of approximately 1.1 million acres addressed by the Plan.
+
+Based on census data, the average annual growth rate in the 1970s in the Plan Area was just over 4.1%. This rose to over 5.8% in the 1980s. The annual growth rate between 1990 and 2000 was approximately 3.4%. The rate is projected to decline thereafter to less than 3% per year according to the Southern California Association of Governments Regional Transportation Plan Growth Forecast. It should be noted, however, that the estimated increase in population remains significant after the year 2000, with nearly an anticipated 145,000 new people added between 2000 and 2020. That is more than the total population of the Plan Area in 1980.
+
+The cities of Cathedral City, Coachella, Desert Hot Springs, Indian Wells, Indio, La Quinta, Palm Desert, Palm Springs, and Rancho Mirage lie within the Plan Area, principally on the floor of the Coachella Valley. Together their jurisdictions make up approximately 16% of the Plan Area. The remaining 84% of the Plan Area is unincorporated. Approximately 41% of the land covered by the Plan is privately held. Though not included in the Plan, Indian Reservations within the Plan Area include the Morongo, Agua Caliente, Santa Rosa, Cabazon, Twenty-Nine Palms, Torres-Martinez Band, and Augustine. The balance of the Plan Area is public land managed by various local, state, and federal agencies, including BLM, USFS, NPS, USFWS, Bureau of Reclamation (BOR), CDFG, State Parks, UC, CVMC, and special districts, and open space lands owned by the Cities of Cathedral City, Coachella, Desert Hot Springs (which is not a Permittee), Indian Wells, Indio, La Quinta, Palm Desert, Palm Springs, and Rancho Mirage and the County.
+
+Data derived from the Plan database indicate that approximately 6.0% of the Plan Area is currently urbanized, 1.0% is in rural development, 7.5% of the land is under agriculture, 0.5% has wind energy development on it, and 28.0% is vacant land under private or public non-conservation ownership. Of the remaining land in the Plan Area, 4.0% is covered by the Salton Sea, and 53.0% is public or Private Conservation Land.
+
+While public land and Private Conservation Lands in some areas constitute large blocks of Habitat, in other areas the Habitat on public lands is fragmented by the checkerboard pattern of public lands and Private Conservation Lands with non-conservation private lands. The Conservation lands are not distributed in such a way as to provide adequate protection for all types of Habitat, or to protect Essential Ecological Processes for some Habitats, and Biological Corridors and Linkages for wildlife movement between major open space areas.
+
+== E.S.3 Plan Development
+
+The conservation plan was developed in consultation with the SAC, using best available science. The SAC developed a methodology for use in assessing the relative biological value of lands within the Plan Area and the subsequent development of a Preferred Alternative conservation plan. The Peninsular bighorn sheep conservation strategy was primarily based on the _Recovery Plan for Bighorn Sheep in the Peninsular Ranges, California_ (USFWS 2000).
+
+The Plan recognizes that there is inevitably an uncertainty factor in scientific information about biological systems. The Monitoring and Adaptive Management Program is designed to increase the level of knowledge about species covered by the Plan, conserved natural communities, ecological processes, and connectivity. Changes in management of the Conservation Areas, and minor boundary changes, could result from such increased knowledge. Any such changes would be consistent with the No Surprises Assurances Rule of USFWS and CDFG assurances.
+
+The conservation planning process reflects the broadest goals of the Plan, which are:
+
+* Represent native ecosystem types or natural communities across their natural range of variation in a system of conserved areas.
+
+* Maintain or restore viable populations of the species included in the Plan so that Take Permits can be obtained for currently Listed animal species and Non-listed animal species can be covered in case they are listed in the future.
+
+* Sustain ecological and evolutionary processes necessary to maintain the viability of the conserved natural communities and Habitats for the species included in the Plan.
+
+* Manage the system adaptively to be responsive to short-term and long-term environmental change and to maintain the evolutionary potential of lineages.
+
+The planning process consisted of the steps described below.
+
+1. _Determine the species and natural communities to be included in the Plan._ The planning team developed the initial list of species and natural communities to be considered. The list was narrowed down through the planning process as described in Section 3.2.
+
+2. _Gather information on the species and natural communities_. Information was gathered on individual species from the following sources: (1) existing information from the literature, including Environmental Impact Reports (EIRs) and other environmental documents, museum records, and other reports on species distribution and ecological requirements; (2) California Natural Diversity Data Base (CNDDB) records; (3) presence/absence surveys for species about which more information was needed in selected areas where they have a probability of occurring and some potential to be protected; and (4) information and location maps provided by individual biologists. Information on the natural communities was gathered from: (1) the University of California at Santa Barbara Gap Map (2) LANDSAT satellite thematic mapping imagery, (3) color infrared aerial photographs, (4) blue-line aerial photographs of the Plan Area; (5) aerial photographs from 1939 and 1954 for historic natural communities, and (6) the CNDDB and the Palm Springs Desert Museum for desert fan palm oases.
+
+3. _Prepare accounts of individual species and natural communities_. These accounts summarize available information on species' life history, habitat and ecological requirements, overall range, distribution within the Plan Area, threats, and conservation needs. Similar accounts were prepared on the composition and distribution of natural communities, threats, and conservation needs.
+
+4. _Gather other pertinent information_. Information was also gathered and entered into the GIS database regarding existing conservation lands, topography and other natural features, watersheds, ecological processes, roads, and current land uses. Information on projected land uses, parcel configuration, and political boundaries was also gathered for use in developing implementation measures.
+
+5. _Prepare a Natural Communities Map._ A Natural Communities Map was prepared to delineate the distribution of the natural communities in the Plan Area. This information was used in (1) modeling species' habitat distribution, (2) developing the Site Identification Maps, and (3) evaluating whether adequate protection will be afforded to the conserved natural communities on which the Plan focuses pursuant to the NCCP Act.
+
+6. _Analyze biological resource information to map species' distribution_. Species' Habitat distribution maps were prepared for all species except burrowing owl using known occurrences, Habitat associations based on the Natural Communities Map, and, where relevant, elevation ranges of the species, landform data, sand source data, and soils data. Consensus was then obtained as to the adequacy and accuracy of information about the distribution of species in the Plan Area. Models were prepared for species for which sufficient data existed to use in developing a model. For the burrowing owl only known location information was used in conservation planning.
+
+7. _Develop Site Identification Maps_. Site Identification Maps were developed by mapping at the quarter-section level and analyzing data regarding species richness, natural community richness, habitat heterogeneity, and habitat fragmentation, and refining the resulting maps using information about Essential Ecological Processes necessary to sustain Habitats, Core Habitat, endemic species occurrences, and other pertinent information. The Site Identification Maps delineate the areas of highest biological resource value in the Plan Area. See Appendix I for a detailed description of the Site Identification process.
+
+8. _Delineate Core Habitat areas, Essential Ecological Process areas, and Biological Corridors and Linkages._ For each of the species for which sufficient data were available, Core Habitat areas were delineated, defined as areas of unfragmented Habitat with intact Essential Ecological Processes large enough to sustain a viable population of the species. See Appendix I for additional information on this process. Areas needed to maintain Essential Ecological Processes to sustain Core Habitat, and Biological Corridors and Linkages were also identified.
+
+9. _Develop Conservation alternatives._ Three Conservation alternatives were initially developed for consideration. Conservation Alternative 1 consisted of existing public lands and Private Conservation Lands only. This alternative was included to assess the extent to which Existing Conservation Lands would suffice to protect the Covered Species and the conserved natural communities included in the Plan. Based on the Site Identification Maps, Conservation Alternative 2 was developed to provide Core Habitat for the Covered Species, protect Essential Ecological Processes to sustain those Habitat areas, provide Biological Corridors among Conservation Areas, and conserve natural communities as functioning ecosystems. The Biological Corridors were intended to provide not only for movement of Covered Species, but also for other species, including coyotes, bobcats, mountain lions, and foxes, necessary to maintain predator-prey relationships, general biological diversity, and the opportunity for species adaptation in response to potential climate change. Conservation Alternative 3 included additional areas with potential Conservation value as Habitat, corridor, and ecological process areas. A statistical analysis of the Conservation alternatives was prepared to provide information about the acreage of Habitat protected for each species and natural community under each alternative. The statistical analysis provided quantitative information on species and natural community protection, which was useful in conjunction with the qualitative analysis conducted in Step 10 using the conservation criteria.
+
+10. _Develop and use criteria for evaluating the conservation alternatives._ Criteria were created to evaluate whether or not the Conservation Areas provide adequate protection for the species and natural communities on which the Plan focuses.
+
+11. _Conduct Independent Science Advisors (ISA) Review._ During the course of the planning process, two workshops were held with leading conservation biologists Dr. Reed Noss, Dr. Michael Soulé, and Dr. C. Richard Tracy to get their input on the conservation plan. The ISA included the aforementioned conservation biologists as well as other scientists. (See Appendix I for additional information.) In early 2001, the ISA reviewed the work completed to date. In addition, a preliminary draft of a study titled _Long-term Sand Supply to Coachella Valley Fringe-toed Lizard (Uma inornata) Habitat in the Northern Coachella Valley, California_ (United States Geological Survey 2000) was made available.
+
+12. _Develop a Preferred Alternative._ The Conservation Area maps prepared by CVAG were discussed in a series of meetings among CDFG, USFWS, CVAG staff, and local jurisdictions to evaluate land use, and economic and biological considerations. Through this process, the proposed Conservation Areas were further refined and a preferred alternative was developed
+
+13. _Delineate Conservation Goals and Objectives._ Conservation Goals and specific Conservation Objectives were developed for each Covered Species, natural community, Essential Ecological Process, Biological Corridor, and Linkage in the Conservation Areas to ensure that Conservation would be accomplished and that the tools for compliance monitoring were in place.
+
+[discrete]
+=== Covered Species and Conserved Natural Communities
+
+The Planning Agreement identified 52 species to be considered for inclusion in the Plan and targeted all the natural communities in the Plan Area. As information was gathered through the planning process, the Planning Team continuously reviewed the list. Other experts on individual species were also consulted. The 27 species ultimately included in the Plan are listed in Table 3-1 in Section 3 of the Plan. There are five plants, two insects, one fish, one amphibian, three reptiles, eleven birds, and four mammals.
+
+The Planning Agreement listed 23 natural communities known to occur in the Plan Area. Through the planning process a total of 46 natural communities were identified in the Plan Area. Of these, 27 natural communities provide Habitat for the Covered Species and are the focal point for establishment of Conservation Areas. The natural communities included in the Plan's Conservation Areas are listed in Table 3-3 in Section 3 of the Plan. The other natural communities are not included in the Conservation Areas established under this Plan; however, with three exceptions, these other natural communities are already adequately protected in the Plan Area on public lands. The three exceptions that are not either currently protected or proposed for protection under this Plan are active shielded desert dunes, Riversidean desert scrub, and tamarisk scrub. Only a fragment of the active shielded desert dunes, surrounded by urbanization and shielded from Essential Ecological Processes, occurs in the Plan Area. Riversidean desert scrub is restricted to the San Gorgonio Pass in the Plan Area, where it occurs primarily on the Morongo Indian Reservation, which is not part of the Plan. It is more common in the western part of the County, where it is addressed in the Western Riverside County Multiple Species Habitat Conservation Plan (MSHCP). Tamarisk scrub is not a "natural" community in that it is dominated by an exotic plant species, i.e. tamarisk. In areas where some tamarisk scrub is included in the Conservation Areas, the intent is to restore it to the appropriate natural community to the maximum extent practicable.
