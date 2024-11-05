@@ -7,13 +7,12 @@ body {
     max-width: 960px;
     margin: 0 auto;
     padding: 2rem;
-    background-color: white;
     color: #222;
 }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Palatino", Times, serif;
+    font-family: "Times New Roman", Times, serif;
     margin-top: 2rem;
     margin-bottom: 1rem;
     page-break-after: avoid;

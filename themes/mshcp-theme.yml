@@ -1,45 +1,69 @@
 extends: default
-page:
-  layout: portrait
-  margin: [1in, 1in, 1in, 1in]
-  size: Letter
+font:
+  catalog:
+    merge: true
+    Times-Roman:
+      normal: times-roman
+      bold: times-bold
+      italic: times-italic
+      bold_italic: times-bolditalic
+
 base:
-  font_family: Times-Roman
-  font_size: 12
-  line_height: 1.4
-  text_alignment: left
+  font-family: Times-Roman
+  font-size: 12
+  line-height: 1.4
+  line-height-length: 12
+  text-align: justify
+
+vertical_spacing:
+  heading_margin_top: 4
+  heading_margin_bottom: 2
+  block_margin_top: 2
+  block_margin_bottom: 2
 
 heading:
-  h1:
-    font_size: 16
-    font_style: bold
-    margin_top: 2
-    margin_bottom: 1
-    text_transform: uppercase
-  h2:
-    font_size: 14
-    font_style: bold
-    margin_top: 1.5
-    margin_bottom: 0.5
-  h3:
-    font_size: 12
-    font_style: bold
-    margin_top: 1.5
-    margin_bottom: 0.5
+  font-family: Times-Roman
+  font-style: bold
+  line-height: 1.2
+  margin-top: 4
+  h1-font-size: 24
+  h2-font-size: 18
+  h3-font-size: 16
+  h4-font-size: 14
+  h5-font-size: 12
+  h6-font-size: 12
 
-block:
-  margin_top: 0
-  margin_bottom: 0.5
+link:
+  font-color: #000000
+  text-decoration: none
+
+literal:
+  font-family: Courier
+  font-size: 10.5
+  border-offset: 4
+  border-radius: 4
+  background-color: #F5F5F5
+
+code:
+  font-family: Courier
+  font-size: 10.5
+  border-offset: 4
+  border-radius: 4
+  background-color: #F5F5F5
 
 table:
-  head:
-    font_style: bold
+  background-color: #FFFFFF
+  border-color: #000000
+  border-width: 0.5
   cell:
     padding: [4, 4, 4, 4]
-  
+  head:
+    font-style: bold
+    background-color: #F5F5F5
+
 footer:
   height: 0.75in
-  line_height: 1
+  line-height: 1
   recto:
     right:
       content: '{page-number}'
@@ -47,7 +71,53 @@ footer:
     left:
       content: '{page-number}'
 
+header:
+  height: 0.75in
+  line-height: 1
+  recto:
+    right:
+      content: '{document-title}'
+  verso:
+    left:
+      content: '{document-title}'
+
+toc:
+  h1-font-size: 18
+  h2-font-size: 14
+  h3-font-size: 12
+  indent: 15
+  line-height: 1.4
+  margin-top: 4
+  dot-leader-color: #999999
+
 role:
-  section-number:
-    font_style: bold
-    margin_right: 0.5em
+  bold:
+    font-style: bold
+  italic:
+    font-style: italic
+  underline:
+    text-decoration: underline
+  center:
+    text-align: center
+
+caption:
+  font-style: italic
+  side: top
+  align: left
+
+page:
+  layout: portrait
+  margin: [1in, 1in, 1in, 1in]
+  size: LETTER
+
+title-page:
+  text-align: center
+  title:
+    top: 40%
+    font-size: 24
+    font-style: bold
+    line-height: 1.2
+  subtitle:
+    font-size: 18
+    font-style: italic
+    line-height: 1

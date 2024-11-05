@@ -1,70 +1,38 @@
 = Executive Summary
 :doctype: book
 :sectnums: 
-:toc: macro
+:toc: left
+:toc-title: Table of Contents
 :xrefstyle: full
-:chapter-label: E.S.
+:chapter-signifier: E.S.
 :figure-caption: Figure
 :table-caption: Table
-:imagesdir: ../assets/volume-1/images
+:pdf-theme: ..//..//mshcp-theme.yml
+:stylesheet: ..//..//styles.css
+:experimental:
+:source-highlighter: highlight.js
+:icons: font
 
 [.lead]
 The Coachella Valley Multiple Species Habitat Conservation Plan balances environmental protection and economic development objectives while simplifying compliance with endangered species laws.
 
+[#_e_s_1]
 == Background, Purpose, Scope, Process, and Regulatory Context
+A Scoping Study prepared for the Coachella Valley Association of Governments (CVAG) by the Coachella Valley Mountains Conservancy (CVMC) in 1994 recommended that a Multiple Species Habitat Conservation Plan (Plan) be prepared for the entire Coachella Valley and surrounding mountains to address current and potential future state and federal Endangered Species Act issues in the Plan Area. (See Figures 1-1 and 1-2 in Section 1 for maps of the Plan Area and its regional context.) A Memorandum of Understanding ("Planning Agreement") was developed to govern the preparation of the Plan. In late 1995 and early 1996, under the auspices of CVAG, the cities of Cathedral City, Coachella, Desert Hot Springs, Indian Wells, Indio, La Quinta, Palm Desert, Palm Springs, and Rancho Mirage; County of Riverside (County); U.S. Fish and Wildlife Service (USFWS); California Department of Fish and Game (CDFG); Bureau of Land Management (BLM); U.S. Forest Service (USFS); and National Park Service (NPS) signed the Planning Agreement to initiate the planning effort. Subsequently, Caltrans, Coachella Valley Water District (CVWD), Imperial Irrigation District (IID), Riverside County Flood Control and Water Conservation District (County Flood Control), Riverside County Regional Park and Open Space District (County Parks), Riverside County Waste Resources Management District (County Waste), California Department of Parks and Recreation (State Parks), and CVMC decided to participate in the Plan.
 
-A Scoping Study prepared for the Coachella Valley Association of Governments (CVAG) by the Coachella Valley Mountains Conservancy (CVMC) in 1994 recommended that a Multiple Species Habitat Conservation Plan (Plan) be prepared for the entire Coachella Valley and surrounding mountains to address current and potential future state and federal Endangered Species Act issues in the Plan Area. (See Figures 1-1 and 1-2 in Section 1 for maps of the Plan Area and its regional context.)
+In late 1996 and early 1997, the Parties to the Planning Agreement approved an amendment stipulating that the Plan will meet the intent of the Natural Community Conservation Planning Act (NCCP Act) as well as the California Endangered Species Act (CESA) and the Federal Endangered Species Act (FESA), and, further, that the Planning Agreement constitutes an agreement to prepare a Natural Community Conservation Plan (NCCP) as specified in California Fish and Game Code Section 2810.
 
-A Memorandum of Understanding ("Planning Agreement") was developed to govern the preparation of the Plan. In late 1995 and early 1996, under the auspices of CVAG, the cities of Cathedral City, Coachella, Desert Hot Springs, Indian Wells, Indio, La Quinta, Palm Desert, Palm Springs, and Rancho Mirage; County of Riverside (County); U.S. Fish and Wildlife Service (USFWS); California Department of Fish and Game (CDFG); Bureau of Land Management (BLM); U.S. Forest Service (USFS); and National Park Service (NPS) signed the Planning Agreement to initiate the planning effort.
+The Plan and Final EIR/EIS were released in early 2006 for local jurisdiction approval. In June 2006, the City of Desert Hot Springs voted not to approve the Plan. The CVAG Executive Committee then rescinded its approval of the Plan and directed that the Plan be revised to remove Desert Hot Springs as a Permittee and reflect other project description modifications that had been suggested during public review. This recirculated Draft Plan implements that direction.
 
-=== Regulatory Framework and Amendments
+The Plan balances environmental protection and economic development objectives in the Plan Area and simplifies compliance with endangered species related laws. The Plan is intended to satisfy the legal requirements for the issuance of Permits that will allow the Take of species covered by the Plan in the course of otherwise lawful activities. The Plan will, to the maximum extent practicable, minimize and mitigate the impacts of the Taking and provide for Conservation of the Covered Species.
 
-In late 1996 and early 1997, the Parties to the Planning Agreement approved an amendment stipulating that the Plan will meet the intent of:
+The Plan has been prepared under the direction of CVAG, which contracted with CVMC for Plan preparation. A Project Advisory Group (PAG), composed of representatives of the Parties to the Planning Agreement; other public agencies, including CVWD and the University of California (UC); and private sector groups, including the Building Industry Association, the Sierra Club, The Nature Conservancy (TNC), the Center for Natural Lands Management (CNLM), and the Riverside County Farm Bureau, has provided a forum for input from an array of interests. All PAG meetings have been public meetings to provide an opportunity for public input. Public forums were held in 1998, 1999, and 2000, and special meetings and contact by mail have provided opportunities for potentially affected landowners to offer input into the planning process.
 
-* Natural Community Conservation Planning Act (NCCP Act)
-* California Endangered Species Act (CESA) 
-* Federal Endangered Species Act (FESA)
+A Scientific Advisory Committee (SAC) provided technical expertise on biological issues. The SAC is made up of biologists from BLM, NPS, USFS, UC, initially TNC and subsequently CNLM, and CVWD, and one non-biologist who provided liaison with the PAG. USFWS and CDFG (Wildlife Agencies) have also attended most SAC meetings. A Geographic Information Systems (GIS) Team, composed of staff from BLM, CVAG, CVMC, and the County, has provided GIS services, including developing data layers, natural communities and species distribution mapping and modeling, gap analysis, and reserve design and corridor mapping.
 
-The Planning Agreement constitutes an agreement to prepare a Natural Community Conservation Plan (NCCP) as specified in California Fish and Game Code Section 2810.
+The proposed term of the Permits is 75 years, which is the length of time required to fully fund Plan implementation. The acquisition program is projected to require 30 years to acquire all the Permittee obligation land. Full funding of the endowment for the Monitoring Program, the Management Program, Adaptive Management, and ongoing administration costs is projected to require 75 years.
 
-[NOTE]
-====
-The Plan and Final EIR/EIS were released in early 2006 for local jurisdiction approval. In June 2006, the City of Desert Hot Springs voted not to approve the Plan. The CVAG Executive Committee then rescinded its approval and directed that the Plan be revised to:
-
-* Remove Desert Hot Springs as a Permittee
-* Reflect other project description modifications suggested during public review
-====
-
-=== Plan Objectives
-
-The Plan aims to:
-
-* Balance environmental protection and economic development
-* Simplify compliance with endangered species related laws
-* Satisfy legal requirements for Permits allowing Take of covered species
-* Minimize and mitigate impacts of Taking to maximum extent practicable
-* Provide Conservation of covered species
-
-==== Key Planning Components
-
-The Plan development involved:
-
-* Project Advisory Group (PAG) providing input from diverse interests
-* Scientific Advisory Committee (SAC) providing technical expertise
-* Geographic Information Systems (GIS) team providing mapping services
-* Public forums and meetings for landowner input
-
-The proposed term of the Permits is 75 years, which allows:
-
-* Full funding of Plan implementation
-* 30 years to acquire all Permittee obligation land
-* 75 years to fully fund endowment for:
-** Monitoring Program
-** Management Program  
-** Adaptive Management
-** Ongoing administration costs
-
-== E.S.2 Plan Area Profile
+== Plan Area Profile
 
 The Coachella Valley is a broad, low elevation, northwest-southeast trending valley comprising the westernmost limits of the Sonoran Desert. It is located in the eastern portion of Riverside County, approximately 100 miles east of Los Angeles. Riverside County as a whole covers over 4,700,000 acres (7,310 square miles), making it California's fourth largest county and roughly equal in size to Connecticut.
 
@@ -78,7 +46,7 @@ Data derived from the Plan database indicate that approximately 6.0% of the Plan
 
 While public land and Private Conservation Lands in some areas constitute large blocks of Habitat, in other areas the Habitat on public lands is fragmented by the checkerboard pattern of public lands and Private Conservation Lands with non-conservation private lands. The Conservation lands are not distributed in such a way as to provide adequate protection for all types of Habitat, or to protect Essential Ecological Processes for some Habitats, and Biological Corridors and Linkages for wildlife movement between major open space areas.
 
-== E.S.3 Plan Development
+== Plan Development
 
 The conservation plan was developed in consultation with the SAC, using best available science. The SAC developed a methodology for use in assessing the relative biological value of lands within the Plan Area and the subsequent development of a Preferred Alternative conservation plan. The Peninsular bighorn sheep conservation strategy was primarily based on the _Recovery Plan for Bighorn Sheep in the Peninsular Ranges, California_ (USFWS 2000).
 
@@ -128,3 +96,156 @@ The planning process consisted of the steps described below.
 The Planning Agreement identified 52 species to be considered for inclusion in the Plan and targeted all the natural communities in the Plan Area. As information was gathered through the planning process, the Planning Team continuously reviewed the list. Other experts on individual species were also consulted. The 27 species ultimately included in the Plan are listed in Table 3-1 in Section 3 of the Plan. There are five plants, two insects, one fish, one amphibian, three reptiles, eleven birds, and four mammals.
 
 The Planning Agreement listed 23 natural communities known to occur in the Plan Area. Through the planning process a total of 46 natural communities were identified in the Plan Area. Of these, 27 natural communities provide Habitat for the Covered Species and are the focal point for establishment of Conservation Areas. The natural communities included in the Plan's Conservation Areas are listed in Table 3-3 in Section 3 of the Plan. The other natural communities are not included in the Conservation Areas established under this Plan; however, with three exceptions, these other natural communities are already adequately protected in the Plan Area on public lands. The three exceptions that are not either currently protected or proposed for protection under this Plan are active shielded desert dunes, Riversidean desert scrub, and tamarisk scrub. Only a fragment of the active shielded desert dunes, surrounded by urbanization and shielded from Essential Ecological Processes, occurs in the Plan Area. Riversidean desert scrub is restricted to the San Gorgonio Pass in the Plan Area, where it occurs primarily on the Morongo Indian Reservation, which is not part of the Plan. It is more common in the western part of the County, where it is addressed in the Western Riverside County Multiple Species Habitat Conservation Plan (MSHCP). Tamarisk scrub is not a "natural" community in that it is dominated by an exotic plant species, i.e. tamarisk. In areas where some tamarisk scrub is included in the Conservation Areas, the intent is to restore it to the appropriate natural community to the maximum extent practicable.
+
+[#_e_s_4]
+
+== Establishment of the MSHCP Reserve System
+The Conservation Plan includes the establishment of an MSHCP Reserve System, setting Conservation Objectives to ensure the Conservation of the Covered Species and conserved natural communities in the MSHCP Reserve System, provisions for management of the MSHCP Reserve System, and a Monitoring Program, and Adaptive Management. The MSHCP Reserve System will be established from lands within 21 Conservation Areas. Because some Take Authorization is provided under the Plan for Development in Conservation Areas, the actual MSHCP Reserve System will be somewhat smaller than the total acres in the Conservation Areas. When assembled, the Reserve System will provide for the Conservation of the Covered Species in the Plan Area.
+For each Conservation Area, Conservation Objectives are articulated for conserving Core Habitat for Covered Species, Essential Ecological Processes necessary to maintain Habitat viability, Biological Corridors and Linkages as needed, and the less common conserved natural communities. Core Habitat has not been delineated for all species. Where it has not been delineated, Conservation Objectives are stated for either acres of Habitat or known occurrences.
+The MSHCP Reserve System will be established within 21 Conservation Areas from the following components:
+
+Existing Conservation Lands, managed by local, state, or federal agencies, or non-profit conservation organizations
+Complementary Conservation
+Additional Conservation Lands
+
+The MSHCP Reserve System will be assembled as shown below:
+[%header,cols="3,3,6"]
+|===
+|1996 |2006 |Lands
+|458,800 |484,600 |Existing federal lands in MSHCP Reserve System^1^
+|32,700 |44,600 |Existing state lands in MSHCP Reserve System
+|900 |19,100 |Existing non-profit organization lands in MSHCP Reserve System^2^
+|4,000 |8,800 |Existing Local Permittee Conservation lands in the MSHCP Reserve System
+|496,400 |557,100 |SUBTOTAL
+|69,290 |29,990 |Acres of Complementary Conservation
+|39,850 |21,390 |Acres to be acquired by state and federal agencies
+|7,500 |7,500 |Additional Local Permittee acres for which there will be cooperation to conserve
+|93,100 |88,900 |Acres to be acquired or otherwise conserved by the Local Permittees
+|10,800 |10,800 |Non-Permittee public and quasi-public lands
+|7,800 |7,800 |Fluvial sand transport area where the Conservation Objective is met through non-acquisition. Development consistent with Conservation Objectives is allowed.^3^
+|228,340 |166,380 |SUBTOTAL - COMPLEMENTARY CONSERVATION AND ADDITIONAL CONSERVATION LANDS
+|22,660 |22,420 |Potential Development within Conservation Areas from Table 5-1.
+|747,400 |745,900 |TOTAL -- CONSERVATION AREAS
+|===
+^1^ The acreage includes lands purchased by non-profit organizations and donated to federal agencies.
+^2^ The acreage includes lands owned by non-profit organizations but acquired with State grant funds or local funds.
+^3^ These acres are in the Cabazon, Long Canyon, and West Deception Canyon Conservation Areas.
+Implementation of the Plan must ensure that the Conservation Objectives delineated for each Conservation Area are achieved. Implementation relies on cooperation among all the signatories to the IA, including local, state, and federal agencies. Assembly of the MSHCP Reserve System is a necessary component of Plan implementation.
+
+=== Existing Conservation Lands within Conservation Areas
+
+The Conservation Areas contained approximately 496,400 acres of Existing Conservation Lands as of 1996. By November 2006, this had increased to approximately 557,100 acres. These are lands in public or private ownership that are managed for Conservation and/or open space values, and which contribute to the Conservation of the Covered Species and the conserved natural communities included in the Plan. Federal lands within the MSHCP Reserve System that will contribute to the Conservation of the Covered Species include lands administered by the BLM, BOR, NPS, USFWS, and USFS. State lands within the MSHCP Reserve System that will contribute to the Conservation of the Covered Species include lands administered by the CDFG, State Parks, CVMC, and UC. The federal and state Existing Conservation Lands are summarized in Table 4-2 in Section 4.1. The Local Permittees will cooperate to conserve identified Local Permittee-owned land in perpetuity in the MSHCP Reserve System. The existing Local Permittee and CVFTL HCP Mitigation Lands and their status are summarized in Table 4-3 in Section 4.1. Various non-profit conservation organizations own land in the MSHCP Reserve System, which they acquired for conservation purposes. CVCC will seek agreements with these non-profit organizations to ensure the permanent Conservation and management of these lands pursuant to the Plan, including providing access to the property for biological monitoring and management purposes. Non-profit conservation organization Existing Conservation Lands are shown in Table 4-4 in Section 4.1.
+The Existing Conservation Lands include the CVFTL Preserve system established pursuant to the CVFTL HCP, approved in 1986. Three preserves were established: Coachella Valley (Thousand Palms), Whitewater River Floodplain, and Willow Hole-Edom Hill. As described in Section 16.2 of the IA, it is the Parties' intent that the lands acquired under the CVFTL HCP will be subsumed into and managed as part of the MSHCP Reserve System. The Coachella Valley fringe-toed lizard is a Covered Species under the MSHCP.
+
+=== Complementary Conservation
+
+Several acquisition efforts for conservation purposes pre-date the MSHCP, and are ongoing efforts expected to conserve approximately 29,990 acres in the MSHCP Reserve System from November 2006 on. These include BLM and USFS acquisition programs in the Santa Rosa and San Jacinto Mountains National Monument, BLM Wilderness inholdings acquisitions, and inholdings acquisitions in Joshua Tree National Park. These acquisition programs pre-date the MSHCP, have broader rationales than the MSHCP program, and are independent of the MSHCP effort. They complement implementation of the MSHCP, but are not a Permittee obligation for purposes of the authorization of Take.
+
+=== Additional Conservation Lands
+
+A minimum of 129,690 acres in the Conservation Areas will be conserved as Additional Conservation Lands, to be acquired or otherwise conserved through state and federal acquisitions and Permittee contributions. The Local Permittees will also protect the fluvial sand transport Essential Ecological Process on approximately 7,800 acres in the Cabazon, Long Canyon, and West Deception Canyon Conservation Areas through application of general plan land use designations and policies, and flood control guidelines.
+Through the MSHCP and its IA, the federal and state governments have agreed to partner with the Local Permittees in assembling, managing, and monitoring Reserve Lands. The federal and state governments will acquire approximately 21,390 acres of privately owned lands (this federal and state obligation is beyond any mitigation obligations for Development authorized by Local Permittees pursuant to the Plan) in the Conservation Areas after November 2006, as well as manage certain federal and state Existing Conservation Lands in the MSHCP Reserve System, and participate in the Monitoring and Adaptive Management Program for Reserve Lands. The Permittees (Local and State) have an obligation to conserve approximately 115,140 acres in the Conservation Areas through:
+
+Conservation of 7,500 acres of currently non-conserved Local Permittee-owned lands. [See Section 4.2.2.2.1.]
+Conservation of 88,900 acres of Additional Conservation Lands by the Local Permittees and Caltrans through acquisition or other means, such as planning tools and land use regulation, and acquisition of 640 acres by State Parks (after 1996), of which 100 acres can be developed for State Park facilities. [See Section 4.2.2.2.2.]
+Management of 18,200 acres of Permittee Existing Conservation Lands consistent with the MSHCP. [See Section 4.2.2.2.3.]
+
+In addition, the Permittees will maintain the fluvial sand transport Essential Ecological Process in the Cabazon, Long Canyon, and West Deception Canyon Conservation Areas as described in Section 4.2.2.2.4.
+In addition to acquisition, land in the Conservation Areas may be conserved through dedication, deed restriction, or granting of a conservation easement in conjunction with Development approvals and conservation incentives. Habitat conserved through planning tools and land use regulation shall be protected, prior to issuance of a grading permit, by fee title transfer, granting a conservation easement to CVCC or other approved entity, or recordation of a deed restriction. Rights of access for monitoring and management of the lands by CVCC, the Wildlife Agencies, or their designees shall be provided.
+
+=== Conservation Areas
+
+The Plan will result in the establishment of the MSHCP Reserve System, assembled from lands within 21 Conservation Areas, which, combined with the Monitoring Program and the Management Program, are designed to achieve the following Conservation Goals:
+
+Represent native ecosystem types or natural communities across their natural range of variation in a system of conserved areas.
+Maintain or restore self-sustaining populations or metapopulations of the species included in the Plan to ensure permanent Conservation so that Incidental Take Permits can be obtained for currently Listed animal species and Non-listed animal species can be covered in case they are listed in the future.
+Sustain ecological and evolutionary processes necessary to maintain the functionality of the natural communities and Habitats for the species included in the Plan.
+Maximize connectivity among populations and avoid habitat fragmentation within Conservation Areas to conserve biological diversity, ecological balance, and connected populations of Covered Species.
+Minimize adverse impacts from off road vehicle use, illegal dumping, edge effects, exotic species, and other disturbances in accordance with the Management and Monitoring Programs.
+Manage the Conservation Areas adaptively to be responsive to short-term and long-term environmental change and new science.
+
+=== Required Avoidance, Minimization, and Mitigation Measures
+
+The Plan includes certain requirements for Covered Activities in the Conservation Areas to avoid, minimize, and mitigate impacts to bighorn sheep Habitat, Biological Corridors, burrowing owl, covered riparian bird species, crissal thrasher, desert tortoise, fluvial sand transport, Le Conte's thrasher, mesquite hummocks and mesquite bosque natural communities, triple-ribbed milkvetch, Palm Springs pocket mouse, and Little San Bernardino Mountains linanthus. These measures do not apply to single-family homes and any non-commercial accessory uses and structures including but not limited to second units on an existing legal lot. The measures have limited application to O&M activities. To assist Permittees with implementation of these measures, CVCC will maintain maps of modeled Habitat and a Natural Communities Map and provide them to each of the Permittees. CVCC will also maintain a list of Acceptable Biologists who may be used to conduct surveys for specified Covered Species. CVCC will also maintain a list of survey protocols approved by either or both CDFG and USFWS.
+
+=== Land Use Adjacency Guidelines
+
+The purpose of the Land Use Adjacency Guidelines is to avoid or minimize indirect effects from Development adjacent to or within the Conservation Areas. Such indirect effects are commonly referred to as edge effects, and may include noise, lighting, drainage, intrusion of people into the adjacent Conservation Area, and the introduction of non-native plants and non-native predators such as dogs and cats. Edge effects will also be addressed through reserve management activities such as fencing.
+
+=== Anticipated Take and Habitat Loss
+
+Anticipated Take for Covered Species for which Habitat distribution models have been developed is measured in terms of Habitat acres affected by the Covered Activities both outside and within the Conservation Areas. For purposes of this calculation, it is assumed that all non-federal lands outside the Conservation Areas may be subject to Take. This represents a worst-case scenario, and Take or Habitat loss at that level is not likely to occur within the 75-year term of the Take Permits. The acres of Take or Habitat loss were determined by overlaying Habitat maps with the Plan Area map, and calculating the Habitat areas outside the Conservation Areas. In addition, a small percentage of Take can occur within the Conservation Areas under the Plan. The amount of such Take or Habitat loss has been calculated for each species and natural community and is shown in the tables in Section 4.6.
+
+[#_e_s_5]
+== Costs of and Funding for Plan Implementation
+
+[#_costs_for_plan_implementation]
+=== Costs for Plan Implementation
+
+Plan implementation costs include the direct and indirect costs associated with land acquisition, the Monitoring Program, and the Management Program. Additional costs include staff costs associated with Plan administration. Cost projections are intended to provide a realistic estimate of the costs for Plan implementation. This also assists the Wildlife Agencies in determining if the Plan meets Permit issuance criteria. The actual costs over time may turn out to be more or less than those projected in this Plan.
+
+As shown in Table 5-1, Conservation through acquisition and other means that needed to occur as of November 2006 for Reserve System Assembly was 159,680 acres. As described in Section 4.2, 29,990 acres of this is projected to occur through Complementary Conservation, leaving a balance of 129,690 acres. Of this, 10,800 acres are public-quasi public lands belonging to non-Permittees. As explained in Section 4.2.2.3, the Plan does not provide Take Authorization for activities on these lands and assumes that this acreage will be conserved through other means, which are not an obligation of the Permittees. That leaves a balance of 118,890 acres, of which 21,390 acres will be conserved by state and federal agencies as their Plan implementation contribution (this federal and state obligation is beyond any mitigation obligations for Development authorized by Local Permittees pursuant to the Plan). This includes 640 acres of acquisition by State Parks, of which 100 acres can be developed for State Park facilities, as one of its mitigation obligations as a Permittee. In addition to State Parks' acquisition, the Permittees will conserve an additional 97,500 acres through acquisition or other means. Of this, 7,500 acres are already owned by Permittees and that acreage will be conserved through the Plan. Thus the Permittees will acquire or otherwise conserve 90,000 acres as of November 2006. For purposes of estimating the maximum Plan implementation costs, it is assumed that all the approximately 90,000 acres to be conserved by the Local Permittees will be purchased. The actual acreage acquired by the Local Permittees could be less if some land is conserved through conditions of approval on Development or other means.
+
+The projected Permittees' costs for Plan implementation are shown in the following tables:
+
+[.center]
+.Summary of Permittees' Expenditures and Balances over the 75-Year Term of the Permits
+[cols="3,1,6", options="header"]
+|===
+|Amount |Item
+|$115,414,000 |Non-acquisition program administration costs (from Table 5-3b)
+|$254,294,000 |Monitoring Program (from Table 5-3b)
+|$221,252,000 |Management Program (from Table 5-3b)
+|$14,903,000 |Adaptive Management (from Table 5-3b)
+|$526,705,000 |Land acquisition costs (from Table 5-3c l)
+|$9,080,000 |Land improvement costs (from Table 5-3c)
+|$24,565,000 |Acquisition program administrative costs (from Table 5-3c)
+|$5,000,000 |Management Contingency Fund (from Table 5-3b)
+|*$1,171,213,000* |*TOTAL Expenditures*
+|$860,741,000 |Endowment Fund balance in Year 75 (from Table 5-3d)
+|$5,386,000 |Fund balance in Operating Fund in Year 75 (from Table 5-3b)
+|$1,200,000 |Repayment of Conservation Trust Fund advance to complete Plan
+|*$2,038,540,000* |*TOTAL*
+|===
+
+In addition to the Permittees' monitoring and management responsibilities described in the preceding sections, CVWD has additional responsibilities, the costs of which are not included in the cost and revenue projections presented in Section 5. CVWD is required to fund the costs of the following:
+
+- Establishing and providing a permanent water source for permanent Habitat for the California black rail and Yuma clapper rail in the Coachella Valley Stormwater Channel and Delta Conservation Area. See Section 4.3.20.
+
+- Establishing and providing a permanent water source, as needed, for riparian Habitat for Covered riparian bird Species in the Coachella Valley Stormwater Channel and Delta Conservation Area. See Section 4.3.20.
+
+- Establishing and providing a permanent water source for desert pupfish Habitat, and developing and implementing a monitoring and adaptive management program for desert pupfish in the agricultural drains and flood control channels. See Section 4.3.20.
+
+- Restoring and enhancing mesquite and Coachella Valley round-tailed ground squirrel Habitat on CVWD land in the East Indio Hills Conservation Area if a study undertaken by the CVCC demonstrates the feasibility of mesquite restoration, and providing water, as needed, for maintaining the mesquite once established. See Section 4.3.15.
+
+[#_funding_for_plan_implementation]
+=== Funding for Plan Implementation
+
+To accomplish the acquisition program in 30 years and fund the Monitoring Program and the Management Program endowment in 75 years, the Permittees will use a combination of annual revenues and debt financing in the form of the issuance of revenue bonds. This would provide the necessary funding for acquisition and establishment of the endowment in advance of the collection of all the revenue needed for those purposes.
+
+The Permittees and the Wildlife Agencies will annually evaluate the performance of the funding mechanisms and, notwithstanding other provisions of the Plan, will develop any necessary modifications to the funding mechanisms to address additional funding needs. If deficiencies are identified through this evaluation, then the Permittees and the Wildlife Agencies will develop strategies to address any additional funding needs consistent with the terms and conditions of the Plan. The funding plan is intended to keep the rate of Conservation of Permittee Additional Conservation Lands roughly proportional with the amount of Development occurring in the Plan Area.
+
+[.center]
+.Summary of Revenue Sources
+[cols="3,1,6", options="header"]
+|===
+|Amount |Revenue Source
+|$516,802,000 |Local Development Mitigation Fee (from Table 5-3c)
+|$227,604,000 |Conservation Trust Fund (from Table 5-3b)
+|$31,077,000 |Regional Road Projects Mitigation (Measure A Sales Tax total contribution to acquisition and endowment; and freeway interchange/associated arterials contribution to endowment)
+|$60,208,000 |Regional Infrastructure Mitigation (Caltrans, CVWD, and IID contributions to acquisition and endowment)
+|$247,500,000 |Eagle Mountain Environmental Mitigation Trust Fund (from Table 5-3b)
+|$3,200,000 |Transfer from CVFTL HCP Endowment
+|$952,149,000 |Interest on Investments (from Tables 5-3b, 5-3c, and 5-3d; interest generated on money in the Operating Fund, the Land Acquisition and Improvement Fund, and the Endowment Fund)
+|*$2,038,540,000* |*TOTAL Revenues*
+|===
+
+If at the end of any five (5) year period the "rough proportionality" test has not been met, the Local Permittees and the Wildlife Agencies will meet within ninety (90) days to begin to develop a strategy to address the need for a balance between Conservation and Development.
+
+Maintaining the Permits does not depend on the state and federal governments' adhering to any specific schedule for land acquisition, nor on any specific appropriations to state and federal agencies for land management. State and federal agencies, including BLM, USFS, NPS, USFWS, Wildlife Conservation Board (WCB), CDFG, and CVMC, may receive funds from a variety of sources to implement their obligations under the Plan. Potential state and federal funding sources include, but are not limited to:
+
+- State appropriations
+- Federal Land and Water Conservation Fund
+- Land exchange
+- State Bond Acts
+- FESA Section 6 funds.

@@ -1,21 +1,17 @@
 {
-    "asciidoc.preview.useEditorStyle": false,
-    "asciidoc.preview.style": "${workspaceRoot}/themes/styles.css",
+    "asciidoc.preview.style": "C:\\bin\\Git\\mshcp\\mshcp\\themes\\styles.css",
+    "asciidoc.preview.useEditorStyle": true,
     "asciidoc.pdf_generator": "asciidoctor-pdf",
-    "asciidoc.pdf_themePath": "${workspaceRoot}/themes/mshcp-theme.yml",
+    "asciidoc.pdf_themePath": "themes/mshcp-theme.yml",
     "asciidoc.preview.refreshInterval": 500,
     "asciidoc.preview.attributes": {
         "experimental": true,
-        "icons": "font"
+        "icons": "font",
+        "stylesdir": "themes",
+        "stylesheet": "styles.css"
     },
     "editor.wordWrap": "on",
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 1000,
-    "cSpell.words": [
-        "adoc",
-        "Coachella",
-        "imagesdir",
-        "MSHCP"
-    ],
-    "cSpell.enabled": true
+    "asciidoc.styles": ["themes/styles.css"]
 }
