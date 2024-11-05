@@ -16,27 +16,27 @@
 :icons: font
 
 // Front Matter
-include::front-matter/cover.adoc[]
+include::content/volume-1/front-matter/cover.adoc[]
 
-include::front-matter/toc.adoc[]
+include::content/volume-1/front-matter/toc.adoc[]
 
-include::front-matter/figures.adoc[]
+include::content/volume-1/front-matter/figures.adoc[]
 
-include::front-matter/tables.adoc[]
+include::content/volume-1/front-matter/tables.adoc[]
 
-include::front-matter/definitions.adoc[]
+include::content/volume-1/front-matter/definitions.adoc[]
 
-include::front-matter/acronyms.adoc[]
+include::content/volume-1/front-matter/acronyms.adoc[]
 
 // Main Content
-include::sections/executive-summary.adoc[]
+include::content/volume-1/sections/executive-summary.adoc[]
 
-include::sections/section-1.adoc[]
+include::content/volume-1/sections/section-1.adoc[]
 
-include::sections/section-2.adoc[]
+include::content/volume-1/sections/section-2.adoc[]
 
 // ... additional sections
 
 // Appendices
 [appendix]
-include::appendices/appendix-1.adoc[]
+include::content/volume-1/appendices/appendix-1.adoc[]

@@ -9,15 +9,6 @@ This repository contains the Coachella Valley Multiple Species Habitat Conservat
 - `themes/`: Styling files (CSS and PDF themes)
 - `build/`: Generated output files
 
-## Building the Documents
-
-This project uses Asciidoctor for document generation. Make sure you have Ruby and Asciidoctor installed:
-
-```bash
-gem install asciidoctor
-gem install asciidoctor-pdf
-```
-
 ## Document Organization
 
 The MSHCP is organized into the following main sections:
