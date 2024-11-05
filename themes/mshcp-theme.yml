@@ -1,0 +1,53 @@
+extends: default
+page:
+  layout: portrait
+  margin: [1in, 1in, 1in, 1in]
+  size: Letter
+base:
+  font_family: Times-Roman
+  font_size: 12
+  line_height: 1.4
+  text_alignment: left
+
+heading:
+  h1:
+    font_size: 16
+    font_style: bold
+    margin_top: 2
+    margin_bottom: 1
+    text_transform: uppercase
+  h2:
+    font_size: 14
+    font_style: bold
+    margin_top: 1.5
+    margin_bottom: 0.5
+  h3:
+    font_size: 12
+    font_style: bold
+    margin_top: 1.5
+    margin_bottom: 0.5
+
+block:
+  margin_top: 0
+  margin_bottom: 0.5
+
+table:
+  head:
+    font_style: bold
+  cell:
+    padding: [4, 4, 4, 4]
+  
+footer:
+  height: 0.75in
+  line_height: 1
+  recto:
+    right:
+      content: '{page-number}'
+  verso:
+    left:
+      content: '{page-number}'
+
+role:
+  section-number:
+    font_style: bold
+    margin_right: 0.5em
